@@ -1,3 +1,2 @@
-SPEJS.EXE runs in DOSbox, but fi you wanna compile it. It misses 3d.inc, and I cannot find it :(
+SPEJS.EXE runs in DOSbox.
 
-I probably have a backup somewhere on an old CD.
